@@ -10,4 +10,4 @@ Features :
 + Express and Mongo for Back-End
 + CRUD operation
 
-<a href="">Live Preview</a>
+<a href="https://redux-student-crud.netlify.app/">Live Preview</a>
