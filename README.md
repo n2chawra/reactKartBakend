@@ -10,4 +10,4 @@ Features :
 + Express and Mongo for Back-End
 + CRUD operation
 
-<a href="https://mern-crud-redux.herokuapp.com">Live Preview</a>
+<a href="">Live Preview</a>
